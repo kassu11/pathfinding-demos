@@ -1,6 +1,6 @@
 # pathfinding demos
 
-- Nopeita testejä reitin etsimiseen
+Nopeita testejä reitin etsimiseen
 
 - Avaa `Test v1` [pelattava demo](https://kassu11.github.io/pathfinding-demos/test-1%20aloituksesta-maaliin-ilman-esteitä/)!
 - Avaa `Test v2.1` [pelattava demo](https://kassu11.github.io/pathfinding-demos/test-2-v1%20cool%20bug/)!
